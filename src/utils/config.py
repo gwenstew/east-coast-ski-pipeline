@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+API_KEY= os.getenv("VISUALCROSSING_KEY")
 
 DB_CONFIG = {
     "host": os.getenv("POSTGRES_HOST"),
