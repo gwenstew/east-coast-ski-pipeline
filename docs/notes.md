@@ -31,6 +31,9 @@
         - scraped timestamp
         - source url
     Raw Weather Data
+        - resort id
+        - resort name
+        - date
         - temp high
         - temp low
         - precipitation type
@@ -59,7 +62,8 @@
     
 **RESOURCES:**
 
-    resort data: OnTheSnow.com, SkiResort.com,
+    resort data: OnTheSnow.com, SkiResort.com, https://www.snow-forecast.com/resorts/Killington/6day/mid
+    https://www.onthesnow.com/vermont/killington-resort/skireport
     weather data: NOAA, NWS, VisualCrossing Weather API
 
 

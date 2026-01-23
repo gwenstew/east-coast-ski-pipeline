@@ -32,6 +32,8 @@ def main():
     date2 = "2026-01-15"
 
     fetch_weather_data(location, date1, date2)
+
+    # TODO: load results into postgres
     
 
 if __name__=="__main__":
